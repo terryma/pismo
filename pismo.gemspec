@@ -32,5 +32,6 @@ Gem::Specification.new do |s|
   s.add_dependency(%q<phrasie>, [">= 0.1.4"])
   s.add_dependency(%q<fastimage>, [">= 1"])
   s.add_dependency(%q<htmlentities>)
+  s.add_dependency(%q<open_uri_redirections>, [">= 0.1.0"])
 
 end
